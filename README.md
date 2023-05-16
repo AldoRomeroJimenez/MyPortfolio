@@ -28,4 +28,7 @@ Tecnologías Utilizadas
 En los proyectos que he realizado a nivel microservicios es la creacion de APIs para modulos independientes. Tengo como prototipo un sistema de contratos en el cual esta diseñado como una app donde separo el backend del frontend, ejemplo de estos proyectos son los siguientes:
 
     • Account Authorization/Authentication (https://github.com/AldoRomeroJimenez/fms.contratos.account)
+    • Events (https://github.com/AldoRomeroJimenez/node-express-apirest-mssql)
+    
+Estos ejemplos de microservicios estan en distintas tecnologias y son muestra de uso y capacidad de las mismas en mi historial de trabajo
 
