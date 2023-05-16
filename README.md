@@ -1,4 +1,4 @@
-# MyPortfolio
+# Mi Portafolio
 Mi portafolio de proyectos
 
 Hola, mi nombre es el Aldo Romero y soy un Web Developer Sr.
