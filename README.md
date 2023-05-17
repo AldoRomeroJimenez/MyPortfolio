@@ -23,6 +23,10 @@ Tecnologías Utilizadas
     • JavaScript
     • Bootstrap
 
+# Aplicaciones Monoliticas
+En un ejemplo de aplicaciones monoliticas, aqui presento un ejemplo de una prueba tecnica para poder ingresar a trabajar a una compañia, la cual esta hecha en Asp.NET MVC, en el siguiente enlace se redigirá a cierta prueba
+
+        * Prueba Técnica https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
 
 # Microservicios
 En los proyectos que he realizado a nivel microservicios es la creacion de APIs para modulos independientes. Tengo como prototipo un sistema de contratos en el cual esta diseñado como una app donde separo el backend del frontend, ejemplo de estos proyectos son los siguientes:
