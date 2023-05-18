@@ -13,6 +13,7 @@ A lo largo de mi carrera he trabajado con muchos proyectos en diferentes tecnolo
 https://github.com/AldoRomeroJimenez/AspectGUI 
 
 Despues de egresar de la universidad, comencé a trabajar en el mundo de .NET en especifico con tecnología Web con Asp.NET
+
 ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/6d914b07-16e6-4c85-bbe1-698e7085a95f)
 
 
