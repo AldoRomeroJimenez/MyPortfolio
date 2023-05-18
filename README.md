@@ -48,7 +48,8 @@ En el siguiente proyecto, es una muestra de como he trabajado con .NET 5 Core Ra
 # Aplicaciones Monoliticas
 En un ejemplo de aplicaciones monoliticas, aqui presento un ejemplo de una prueba tecnica para poder ingresar a trabajar a una compañia, la cual esta hecha en Asp.NET MVC, en el siguiente enlace se redigirá a cierta prueba
 
-        * Prueba Técnica https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
+        • Prueba Técnica https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
+        • Administracion de modulos de departamentos https://github.com/AldoRomeroJimenez/AspNetCoreRazorPages
 
 # Microservicios
 
