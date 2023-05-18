@@ -13,8 +13,8 @@ Despues de egresar de la universidad, comencé a trabajar en el mundo de .NET en
 
 **ASP.NET**
 
-Participé en proyectos industriales. Estos proyectos, he utilizado el Framework .NET 4.5 y las herramientas para cpmplementar fueron.
-Tecnologías Utilizadas
+Participé en proyectos industriales. Estos proyectos, he utilizado el Framework .NET 4.5 y las herramientas para complementar
+Tecnologías Utilizadas:
 
     • ASP.NET 4.5 + Framework
     • C# y VB
@@ -22,6 +22,10 @@ Tecnologías Utilizadas
     • CSS
     • JavaScript
     • Bootstrap
+
+Los tipos de proyectos con los que inicié en .NET fueron:
+    • Web Forms
+    • Asp MVC 4
 
 # Asp.NET Core
 
