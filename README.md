@@ -5,6 +5,8 @@ Hola, mi nombre es el Aldo Romero y soy un Web Developer Sr.
 
 A lo largo de mi carrera he trabajado con muchos proyectos en diferentes tecnologias, a continuación empezaré mostrando en orden cronológico.
 
+![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/3cce4a84-43e2-4b4a-aa87-aa870db823cb)
+
 
  **Proyecto de titulación**.
 https://github.com/AldoRomeroJimenez/AspectGUI 
