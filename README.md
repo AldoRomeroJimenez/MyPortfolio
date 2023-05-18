@@ -1,8 +1,6 @@
 # Mi Portafolio
 ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/f63e4dd7-5f84-44b2-990b-2ab486547652)
 
-Mi portafolio de proyectos
-
 Hola, mi nombre es el Aldo Romero y soy un Web Developer Sr.
 
 A lo largo de mi carrera he trabajado con muchos proyectos en diferentes tecnologias, a continuación empezaré mostrando en orden cronológico.
