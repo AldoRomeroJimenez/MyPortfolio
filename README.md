@@ -33,7 +33,8 @@ Los tipos de proyectos con los que inicié en .NET fueron:
     • Web Forms
     • Asp MVC 4
 
-# Asp.NET Core
+# Asp.NET Core ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/1468dfd6-733e-4105-9ce2-410927b79e6b)
+
 
 En el siguiente proyecto, es una muestra de como he trabajado con .NET 5 Core Razor Pages, este ejemplo es tambien una aplicacion monolitica.
 
