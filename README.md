@@ -49,6 +49,10 @@ En un ejemplo de aplicaciones monoliticas, aqui presento un ejemplo de una prueb
         * Prueba Técnica https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
 
 # Microservicios
+
+![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/9b4b0d98-9634-49b9-8e20-04f0fb169c3d)
+
+
 En los proyectos que he realizado a nivel microservicios es la creacion de APIs para modulos independientes. Tengo como prototipo un sistema de contratos en el cual esta diseñado como una app donde separo el backend del frontend, ejemplo de estos proyectos son los siguientes:
 
     • Account Authorization/Authentication - ASP.NET 6 (https://github.com/AldoRomeroJimenez/fms.contratos.account)
