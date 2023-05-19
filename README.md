@@ -64,3 +64,11 @@ En los proyectos que he realizado a nivel microservicios es la creacion de APIs 
     
 Estos ejemplos de microservicios estan en distintas tecnologias y son muestra de uso y capacidad de las mismas en mi historial de trabajo
 
+# Frontend
+
+En aplicaciones de FrontEnd he trabajado con Angular 11+, las herramientas de los proyectos es la siguiente:
+
+   • Módulos
+   • Componentes
+   • Material
+   • Rutas y LazyLoad
