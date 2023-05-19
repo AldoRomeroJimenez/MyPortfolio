@@ -4,7 +4,7 @@
 
 Hola, mi nombre es el **Aldo Romero** y soy **Web Developer Sr.**
 
-A lo largo de mi carrera he trabajado con muchos proyectos en diferentes tecnologias, a continuación empezaré mostrando en orden cronológico.
+A lo largo de mi carrera he trabajado con muchos proyectos en diferentes tecnologias, a continuación, comenzaré mostrando mi trabajo en orden cronológico.
 
 ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/16c4ce8e-601c-4651-a389-2a3caf98beb1)
 
@@ -21,7 +21,7 @@ Despues de egresar de la universidad, comencé a trabajar en el mundo de .NET en
 
 **ASP.NET**
 
-Participé en proyectos industriales. Estos proyectos, he utilizado el Framework .NET 4.5 y las herramientas para complementar
+Participé en proyectos industriales, en estos proyectos, he utilizado el Framework .NET 4.5 y las herramientas para complementar
 Tecnologías Utilizadas:
 
     • ASP.NET 4.5 + Framework
@@ -46,7 +46,7 @@ En el siguiente proyecto, es una muestra de como he trabajado con .NET 5 Core Ra
     • Administracion de modulos de departamentos https://github.com/AldoRomeroJimenez/AspNetCoreRazorPages
 
 # Aplicaciones Monoliticas
-En un ejemplo de aplicaciones monoliticas, aqui presento un ejemplo de una prueba tecnica para poder ingresar a trabajar a una compañia, la cual esta hecha en Asp.NET MVC, en el siguiente enlace se redigirá a cierta prueba
+En un ejemplo de aplicaciones monoliticas, aqui presento una prueba técnica para poder ingresar a trabajar a una compañia, la cual esta hecha en Asp.NET MVC, en el siguiente enlace se redigirá a cierta prueba
 
         • Prueba Técnica https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
         • Administracion de modulos de departamentos https://github.com/AldoRomeroJimenez/AspNetCoreRazorPages
