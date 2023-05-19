@@ -66,9 +66,16 @@ Estos ejemplos de microservicios estan en distintas tecnologias y son muestra de
 
 # Frontend
 
+
+ 
+
 En aplicaciones de FrontEnd he trabajado con Angular 11+, las herramientas de los proyectos es la siguiente:
 
+
    • Módulos
+
    • Componentes
+
    • Material
+
    • Rutas y LazyLoad
