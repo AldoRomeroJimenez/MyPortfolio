@@ -79,3 +79,15 @@ En aplicaciones de FrontEnd he trabajado con Angular 11+, las herramientas de lo
    • Material
 
    • Rutas y LazyLoad
+
+
+# Movil (Android)
+
+
+
+Actualmente estoy trabajando el proyectos en lo que he desarrollado App moviles con Android usando:
+
+    • Java 17
+    • Kotlin
+
+Por el momento solo estoy usando Android Studio para el diseño, tambien, uso la libreria Material para las vista
