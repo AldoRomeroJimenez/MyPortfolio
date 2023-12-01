@@ -33,3 +33,32 @@ As an example of monolithic applications, I present a technical test to be able 
 
     • Technical Test https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
     • Department module administration https://github.com
+
+
+Microservices
+In the microservices projects I have worked on, I created APIs for independent modules. I have a contract system prototype that is designed as an app where I separate the backend from the frontend. Examples of these projects are:
+
+• Account Authorization/Authentication - ASP.NET 6 (https://github.com/AldoRomeroJimenez/fms.contratos.account)
+• Events - node.js (https://github.com/AldoRomeroJimenez/node-express-apirest-mssql)
+• Providers - Java Spring Boot (https://github.com/AldoRomeroJimenez/proveedorAPI)
+
+These microservices examples are in different technologies and are a demonstration of their use and capacity in my work history.
+
+Frontend
+In FrontEnd applications, I have worked with Angular 11+. The tools used in the projects are:
+
+• Modules
+
+• Components
+
+• Material
+
+• Routes and LazyLoad
+
+Mobile (Android)
+Currently, I am working on projects where I have developed mobile apps with Android using:
+
+• Java 17
+• Kotlin
+
+At the moment, I am only using Android Studio for design. I also use the Material library for the views.
