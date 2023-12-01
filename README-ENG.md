@@ -47,7 +47,7 @@ In the following project, I show how I worked with .NET 5 Core Razor Pages. This
 As an example of monolithic applications, I present a technical test to be able to enter a company, which is made in Asp.NET MVC. The following link will redirect to a certain test
 
     • Technical Test https://github.com/AldoRomeroJimenez/TestCoppel/tree/master
-    • Department module administration https://github.com
+    • Department module administration https://github.com/AldoRomeroJimenez/AspNetCoreRazorPages
 
 
 # Microservices
