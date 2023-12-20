@@ -2,8 +2,7 @@
 
 ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/8ac12492-bb93-4c6b-b839-c6a355a0024a)
 
-Hello, my name is **Aldo Romero** and I am a **Web Developer Sr**. Mi CV ([cvAlRomero.pdf](https://github.com/AldoRomeroJimenez/MyPortfolio/files/13640553/cvAlRomero.pdf)
-)
+Hello, my name is **Aldo Romero** and I am a **Web Developer Sr**. 
 
 Throughout my career, I have worked on many projects in different technologies. Below, I will show my work in chronological order.
 ![imagen](https://github.com/AldoRomeroJimenez/MyPortfolio/assets/112647926/16c4ce8e-601c-4651-a389-2a3caf98beb1)
